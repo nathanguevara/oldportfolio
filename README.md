@@ -3,13 +3,13 @@
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations + Hover Effects\
-⚡️ One Page Layout\
-⚡️ Custom SCSS\
-⚡️ Fully Responsive\
+⚡️ One Page Layout
+⚡️ Custom SCSS
+⚡️ Fully Responsive
 ⚡ Fast and SEO Optimized
 
 
-To view a live example, **[Click Here](nathanguevara.com)**\
+To view a live example, **[Click Here](https://www.nathanguevara.com)**
 
 ## Technologies used 🛠️
 
